@@ -1,0 +1,402 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- favicon -->
+    <link rel="icon" type="image/png" href="assets/img/educator-fabicon-300x300.png">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" media="all">
+    <!-- Fonts Awesome CSS -->
+    <link rel="stylesheet" type="text/css" href="assets/vendors/fontawesome/css/all.min.css">
+    <!-- Elmentkit Icon CSS -->
+    <link rel="stylesheet" type="text/css" href="assets/vendors/elementskit-icon-pack/assets/css/ekiticons.css">
+    <!-- progress bar CSS -->
+    <link rel="stylesheet" type="text/css" href="assets/vendors/progressbar-fill-visible/css/progressBar.css">
+    <!-- jquery-ui css -->
+    <link rel="stylesheet" type="text/css" href="assets/vendors/jquery-ui/jquery-ui.min.css">
+    <!-- modal video css -->
+    <link rel="stylesheet" type="text/css" href="assets/vendors/modal-video/modal-video.min.css">
+    <!-- light box css -->
+    <link rel="stylesheet" type="text/css" href="assets/vendors/fancybox/dist/jquery.fancybox.min.css">
+    <!-- slick slider css -->
+    <link rel="stylesheet" type="text/css" href="assets/vendors/slick/slick.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendors/slick/slick-theme.css">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+    <!-- css -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Manav Rachna</title>
+</head>
+
+<body class="home">
+    <!--div id="siteLoader" class="site-loader ">
+        <div class="preloader-content">
+            <img src="assets/img/loader1.gif" alt="">
+        </div>
+    </div-->
+    <div id="page" class="full-page">
+        <header class="site-header site-header-transparent">
+            <!-- header html start -->
+            
+            <div class="bottom-header" id="masthead">
+                <div class="container">
+                    <div class="hb-group d-flex align-items-center justify-content-between">
+                        <div class="site-identity col-lg-3">
+                            <p class="site-title">
+                                <a href="index.html">
+                                    <img src="MRLOGO.jpg" alt="logo">
+                                </a>
+                            </p>
+                        </div>
+                        <div class="main-navigation col-lg-9 justify-content-between d-flex align-items-center">
+                            <nav id="navigation" class="navigation d-none d-lg-inline-block">
+                                
+                            </nav>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--div class="mobile-menu-container"></div-->
+        </header>
+        <main id="content" class="site-main">
+            <!-- home banner section html start -->
+            <section class="home-banner d-flex align-items-end">
+                <div class="container">
+                    <div class="row align-items-end">
+                        <div class=" banner-left col-md-6">
+                            <div class="banner-content">
+                                <div class="title-divider"></div>
+                                <div class="banner-title">
+                                    <h1>MANAV RACHNA INTERNATIONAL SCHOOL</h1>
+                                </div>
+                                <div class="banner-text">
+                                    <h4 style="color:#b22b2e; font-size:2.4rem">ADMISSIONS OPEN FOR SESSION 2024-25<br>
+                                    <span style="color:#b22b2e; font-size:1.7rem">Toddlers to Grade 9 & 11</span></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class=" banner-right col-md-6">
+                            <figure class="banner-img">
+                                <div class="image-overlay-oval pattern-overlay"></div>
+                                <img src="educator-img33.png" alt="">
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+                <div class="overlay-image pattern-overlay"></div>
+            </section>
+            <!-- home about section html start -->
+            <section class="home-about-us">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 ">
+                            <div class="about-left-content">
+                                <figure class="figure-round-border">
+                                    <img src="https://youtu.be/oObhVVC93fs">
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class=" about-right-content">
+                                <div class="title-divider"></div>
+                                <h2 class="about-title">#ShineBeyondLimits</h2>
+                                <p class="about-desc">
+                                  Here at MRIS Sector 46, Gurugram, our vision is to emerge as the best choice in education, globally. To put the child at the heart of learning to become the transformational leader through understanding, knowledge and skills, which can drive innovation to shape a better future for all<br><br>
+
+We strive to build an integrated focus on academics, services, sports, and opportunities that will lead to improved student learning, stronger family bonding, and healthier communities.
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pattern-overlay"></div>
+                </div>
+            </section>
+            
+            <!-- home Course section html start -->
+            <section class="home-course-section">
+                <div class="container">
+                    <div class="overlay-wrapper">
+                        <div class="row">
+                            <div class="col-lg-6 offset-lg-3">
+                                <div class="title-divider"></div>
+                                <h2 class="section-title">DISCOVER THE #MRISEXCELLENCE</h2>
+                            </div>
+                        </div>
+                        <div class="inner-course-wrap">
+                            <div class="row d-flex justify-content-center justify-content-xl-start">
+                                <div class="col-sm-6 col-lg-4 pe-3 ps-3 pt-4 pt-lg-0 inner-course">
+                                    <article class="post">
+                                        <figure class="feature-image">
+                                            <img src="d1.jpg" alt="">
+                                        </figure>
+                                        <div class="entry-content">
+                                            <h4>
+                                                <a href="">Modern Interactive Classroom</a>
+                                            </h4>
+                                        </div>
+                                    </article>
+                                </div>
+                                <style>
+                                    .deskshw{display:block;}
+                                    .mobshw{display:none;}
+                                    @media only screen and (max-width: 600px) {
+                                    .deskshw{display:none;}
+                                    .mobshw{display:block;}   
+                                    }
+                                </style>
+                                <div class="col-sm-6 col-lg-4 pe-3 ps-3 pt-4 pt-lg-0 inner-course">
+                                    <article class="post">
+                                        <figure class="feature-image">
+                                            <img src="d2.jpg" alt="">
+                                        </figure>
+                                        <div class="entry-content">
+                                            <h4>
+                                                <div class="deskshw"><a href="">Fully-Equipped<br>Library</a></div>
+                                                <div class="mobshw"><a href="">Fully-Equipped Library</a><div class="deskshw">
+                                            </h4>
+                                        </div>
+                                    </article>
+                                </div>
+                                <div class="col-sm-6 col-lg-4 pe-3 ps-3 pt-4 pt-lg-0 inner-course">
+                                    <article class="post">
+                                        <figure class="feature-image">
+                                            <img src="d3.jpg" alt="">
+                                        </figure>
+                                        <div class="entry-content">
+                                            <h4>
+                                                <a href="">Music & Dance Learning Rooms</a>
+                                            </h4>
+                                        </div>
+                                    </article>
+                                </div>
+                            </div>
+                        </div>
+                        <br><br>
+                        <div class="inner-course-wrap">
+                            <div class="row d-flex justify-content-center justify-content-xl-start">
+                                
+                                <div class="col-sm-6 col-lg-4 pe-3 ps-3 pt-4 pt-lg-0 inner-course">
+                                    <article class="post">
+                                        <figure class="feature-image">
+                                            <img src="d4.jpg" alt="">
+                                        </figure>
+                                        <div class="entry-content">
+                                            <h4>
+                                                <div class="deskshw"><a href="">Visual Arts<br>Room</a></div>
+                                                <div class="mobshw"><a href="">Visual Arts Room</a><div class="deskshw">
+                                            </h4>
+                                        </div>
+                                    </article>
+                                </div>
+                                
+                                
+                                
+                                <div class="col-sm-6 col-lg-4 pe-3 ps-3 pt-4 pt-lg-0 inner-course">
+                                    <article class="post">
+                                        <figure class="feature-image">
+                                            <img src="d5.jpg" alt="">
+                                        </figure>
+                                        <div class="entry-content">
+                                            <h4>
+                                                <a href="">Ultra-Modern Sports Facilities</a>
+                                            </h4>
+                                        </div>
+                                    </article>
+                                </div>
+                                
+                                <div class="col-sm-6 col-lg-4 pe-3 ps-3 pt-4 pt-lg-0 inner-course">
+                                    <article class="post">
+                                        <figure class="feature-image">
+                                            <img src="d6.jpg" alt="">
+                                        </figure>
+                                        <div class="entry-content">
+                                            <h4>
+                                                <a href="">Learning & Interactive Centre</a>
+                                            </h4>
+                                        </div>
+                                    </article>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="overlay overlay-circle"></div>
+                        <div class="pattern-overlay"></div>
+                    </div>
+                </div>
+            </section>
+            <!-- home fact section html start -->
+            <section class="home-fact-section">
+                <div class="overlay"></div>
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6">
+                            <div class="fact-section-head">
+                                <div class="title-divider"></div>
+                                <h2 class="fact-section-title"> GIVE YOUR LITTLE CHAMP #THEPERFECTSTART !</h2>
+                                <p class="fact-section-info">
+                                    Our goal is to make our youngest learners feel safe and supported through their first learning experience at School. Culmination of care and creativity is what defines our dedication to provide #ThePerfectStart to your little champ. Learning here is focused on building trusting relationships, encouraging exploration and discovering the world around, through experiences that nurture holistic development and growth.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="fact-right-inner-wrap">
+                                <div class="fact-inner-box">
+                                    <div class="fact-content top-left-content">
+                                        <div class="pattern-overlay circle-patten"></div>
+                                        <h4>Inculcating the Love for Learning</h4>
+                                    </div>
+                                    <figure class="fact-image top-right-image"></figure>
+                                    <figure class="fact-image bottom-left-image"></figure>
+                                    <div class="fact-content bottom-right-content">
+                                        <div class="pattern-overlay circle-c-patten"></div>
+                                        <h4>Child-Centric Approach for Holistic Growth</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- home Course section html start -->
+           
+            <!-- home team section html start -->
+            <section class="home-team-section">
+                <div class="container">
+                    <div class="overlay"></div>
+                    <div class="row align-items-end">
+                        <div class="col-md-6 text-md-start text-center">
+                            <div class="title-divider"></div>
+                            <h2 class="team-section-title"> Our Network of Schools</h2>
+                        </div>
+                    </div>
+                    <div class="group-member">
+                        <div class="row">
+                            <div class="col-sm-6 col-lg-3 p-4">
+                                <figure class="team-img">
+                                    <img src="n1.jpg" alt="">
+                                </figure>
+                                <div class="team-content text-center">
+                                    <h4>
+                                        <a href="https://mris.edu.in/faridabad-sector-14/">MRIS Sec-14 Faridabad</a>
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-lg-3 p-4">
+                                <figure class="team-img">
+                                    <img src="n2.png" alt="">
+                                </figure>
+                                <div class="team-content text-center">
+                                    <h4>
+                                        <a href="https://mris.edu.in/faridabad-sector-21c/">MRIS Sec-21C Faridabad</a>
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-lg-3 p-4">
+                                <figure class="team-img">
+                                    <img src="n3.jpg" alt="">
+                                </figure>
+                                <div class="team-content text-center">
+                                    <h4>
+                                        <a href="https://mris.edu.in/faridabad-charmwood/">MRIS Charmwood</a>
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-lg-3 p-4">
+                                <figure class="team-img">
+                                    <img src="n4.jpg" alt="">
+                                </figure>
+                                <div class="team-content text-center">
+                                    <h4>
+                                        <a href="https://mris.edu.in/gurugram-sector-46/">MRIS Sec-46 Gurugram</a>
+                                    </h4>
+                                </div>
+                            </div>
+                        </div>
+                        <br><br>
+                        <div class="row">
+                            <div class="col-sm-6 col-lg-3 p-4">
+                                <figure class="team-img">
+                                    <img src="n5.jpg" alt="">
+                                </figure>
+                                <div class="team-content text-center">
+                                    <h4>
+                                        <a href="https://mris.edu.in/gurugram-sector-51/">MRIS Sec-51 Gurugram</a>
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-lg-3 p-4">
+                                <figure class="team-img">
+                                    <img src="n6.jpg" alt="">
+                                </figure>
+                                <div class="team-content text-center">
+                                    <h4>
+                                        <a href="https://mris.edu.in/noida-sector-51/">MRIS Sec-51 Noida</a>
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-lg-3 p-4">
+                                <figure class="team-img">
+                                    <img src="n7.jpg" alt="">
+                                </figure>
+                                <div class="team-content text-center">
+                                    <h4>
+                                        <a href="https://mris.edu.in/ludhiana/">MRIS Ludhiana</a>
+                                    </h4>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-lg-3 p-4">
+                                <figure class="team-img">
+                                    <img src="n8.jpg" alt="">
+                                </figure>
+                                <div class="team-content text-center">
+                                    <h4>
+                                        <a href="https://mris.edu.in/mohali/">MRIS Mohali</a>
+                                    </h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <!-- footer part -->
+        
+        <!-- back to top -->
+        <a id="backTotop" href="#" class="to-top-icon">
+            <i class="fas fa-chevron-up"></i>
+        </a>
+        <!-- custom search field html -->
+        <div class="header-search-form">
+            <div class="container">
+                <div class="header-search-container">
+                    <form class="search-form" role="search" method="get">
+                        <input type="text" name="s" placeholder="Enter your text...">
+                    </form>
+                    <a href="#" class="search-close">
+                        <i class="fas fa-times"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- JavaScript -->
+    <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/vendors/jquery/jquery.js"></script>
+    <script src="assets/vendors/waypoint/jquery.waypoints.min.js"></script>
+    <script src="assets/vendors/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/vendors/jquery-ui/jquery-ui.min.js"></script>
+    <script src="assets/vendors/progressbar-fill-visible/js/progressBar.min.js"></script>
+    <script src="assets/vendors/countdown-date-loop-counter/loopcounter.js"></script>
+    <script src="assets/vendors/counterup/jquery.counterup.js"></script>
+    <script src="assets/vendors/modal-video/jquery-modal-video.min.js"></script>
+    <script src="assets/vendors/masonry/masonry.pkgd.min.js"></script>
+    <script src="assets/vendors/fancybox/dist/jquery.fancybox.min.js"></script>
+    <script src="assets/vendors/slick/slick.min.js"></script>
+    <script src="assets/vendors/slick-nav/jquery.slicknav.js"></script>
+    <script src="assets/js/custom.js"></script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7e15cd574c381cc3',m:'WQbG0Bjh1oelgUL6CYIe0SkU9M.9l6ds7HqJGThYFyc-1688457286-0-ARmz1J9PWWE8QmUbnl6QaRUEneBnietjN8WG//03r4np'};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='../../cdn-cgi/challenge-platform/h/g/scripts/jsd/19b997cb/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+
+
+</html>
